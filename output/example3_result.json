@@ -1,0 +1,74 @@
+{
+  "fridge": {
+    "center": [
+      56563.3095,
+      36522.7853625731
+    ],
+    "rotation": 180.0,
+    "placed": true
+  },
+  "shelf-1": {
+    "center": [
+      56798.3095,
+      37353.106
+    ],
+    "rotation": 0.0,
+    "placed": true
+  },
+  "shelf-2": {
+    "center": [
+      56898.3095,
+      34933.06568145161
+    ],
+    "rotation": 270.0,
+    "placed": true
+  },
+  "shelf-3": {
+    "center": [
+      56898.3095,
+      33931.04975403226
+    ],
+    "rotation": 270.0,
+    "placed": true
+  },
+  "shelf-4": {
+    "center": [
+      56898.3095,
+      32929.033826612904
+    ],
+    "rotation": 270.0,
+    "placed": true
+  },
+  "shelf-5": {
+    "center": [
+      56898.3095,
+      31927.017899193546
+    ],
+    "rotation": 270.0,
+    "placed": true
+  },
+  "overShelf-1": {
+    "center": [
+      57607.08142982457,
+      37353.106
+    ],
+    "rotation": 0.0,
+    "placed": true
+  },
+  "overShelf-2": {
+    "center": [
+      57848.3095,
+      35773.106
+    ],
+    "rotation": 270.0,
+    "placed": true
+  },
+  "overShelf-3": {
+    "center": [
+      57441.3095,
+      35753.106
+    ],
+    "rotation": 270.0,
+    "placed": true
+  }
+}
